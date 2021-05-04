@@ -1,0 +1,81 @@
+<style>
+body{
+    margin: 0;
+    color: white;
+}
+
+#kungfu{
+    height: 80%;
+    width: auto;
+    background-image: url("images/kungfu.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+#judo{
+    height: 80%;
+    width: auto;
+    background-image: url("images/judo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+#mixed{
+    height: 80%;
+    width: auto;
+    background-image: url("images/mixed.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+#karate{
+    height: 80%;
+    width: auto;
+    background-image: url("images/karate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+#taekwondo{
+    height: 80%;
+    width: auto;
+    background-image: url("images/taekwondo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+}
+
+.main{
+    padding: 10px;
+    background-color: black;
+    position: relative;
+    text-align: justify;
+    height: auto;
+    line-height: 2;
+}
+
+h1{
+    font-size:  50px;
+    text-align: center;
+}
+
+p{
+    padding: 10 50;
+    font-size: 20px;
+}
+
+</style>

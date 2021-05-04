@@ -1,0 +1,17 @@
+<style>
+
+.card {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 35px 25px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    height: auto;
+}
+
+
+</style>
